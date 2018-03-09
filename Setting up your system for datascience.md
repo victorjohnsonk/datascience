@@ -47,4 +47,66 @@ D64)] on win32`
 
 If you see this congrats.. Python is properly configured. Else go back and check your environment variable setting.
 
+#### Installing dependencies(packages)
+Dependencies are other packages or libraries which work in conjunction with python to perform some tasks. For data science there are some packages available. We can install that one by one.
+
+Usually most of the packages are installed using `pip command`, like `pip install packagename` 
+pip is a package management system used to install and manage software packages written in Python. Many packages can be found in the Python Package Index. Python 2.7.9 and later, and Python 3.4 and later include pip by default.[Read more](https://en.wikipedia.org/wiki/Pip_(package_manager))
+pip is located at `C:\Python34\Scripts`
+
+>It is a good idea to add pip to environment variable as we did for python. Just add `C:\Python34\Scripts`to `pythonpath` environment variable we made. So after this `pip install packagename` will work directly from command prompt. Else you need to navigate to `C:\Python34\Scripts`in cmd and use pip install.
+
+>Please note if you are behind a corporate firewall you can use `pip` commands in this way `pip --proxy=yourproxyaddress install packagename`. Here replace `yourproxyaddress` with proxy your firewall is using(ask for this to your IT people) and packagename with the desired package name (package for python version you have installed in your system has to be installed)
+
+##### Now lets see the necessary packages
+
+###### Pandas
+Pandas is a software library written for the Python programming language for data manipulation and analysis
+Official [website](https://pandas.pydata.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/Pandas_(software))
+
+Install pandas : Open command prompt type `pip install pandas` press enter
+
+###### Scipy
+SciPy is an open source Python library used for scientific computing and technical computing. SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering. 
+Official [website](https://www.scipy.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/SciPy)
+
+Install pandas : Open command prompt type `pip install scipy` press enter
+
+###### Numpy
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+Official [website](www.numpy.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/NumPy)
+
+Install Numpy : Open command prompt type `pip install numpy` press enter
+
+###### Scikit-Learn
+Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN
+Official [website](www.scikit-learn.org)
+[Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
+
+Install scikitlearn : Open command prompt type `pip install scikit-learn` press enter
+
+>Scikit-learn requires:
+NumPy
+SciPy
+
+
+###### Matplotlib
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+Official [website](https://matplotlib.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
+
+Install Matplotlib : Open command prompt type `pip install matplotlib` press enter
+
+
+
+
+
+
+
+
+
+
 
