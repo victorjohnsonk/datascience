@@ -34,34 +34,6 @@ For Python documentation go [here](https://www.python.org/doc/)
 
 Read about python in wikipedia go [here](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+> Inorder to run python from anywhere in your system, just by typing `python` in `ommand prompt`, we have to set the `path variable`.
 
 
-
-### Prerequisites
-What things you need to install the software and how to install them
-
-### Give examples
-Installing
-A step by step series of examples that tell you have to get a development env running
-
-## Say what the step will be
-
-### Give the example
-And repeat
-
-### until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-Explain how to run the automated tests for this system
-
-## Break down into end to end tests
-Explain what these tests test and why
-
-### Give an example
-`And coding style tests
-Explain what these tests test and why`
-
-### Give an example
-## Deployment
-Add additional notes about how to deploy this on a live system
