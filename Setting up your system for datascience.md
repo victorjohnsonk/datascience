@@ -35,7 +35,7 @@ For Python documentation go [here](https://www.python.org/doc/)
 Read about python in wikipedia go [here](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 > Inorder to run python from anywhere in your system, just by typing `python` in `command prompt`, we have to set the `path variable`.
->For that Goto `My computer` -> `right click` -> Select `Advanced system Settings` -> In the new window appearing, select `Environement >Variables` -> select `NEW` -> Give `Variale name` as `pythonpath` and `Variable value` as `C:\PythonXX;` (replace XX with your python >version) -> `click Ok` -> `click Ok` -> `click Ok`
+For that Goto `My computer` -> `right click` -> Select `Advanced system Settings` -> In the new window appearing, select `Environement Variables` -> select `NEW` -> Give `Variale name` as `pythonpath` and `Variable value` as `C:\PythonXX;` (replace XX with your python version) -> `click Ok` -> `click Ok` -> `click Ok` . Similarly you can give subfolders(C:\PythonXX\Lib;C:\PythonXX\Scripts;) in that directory if you wish but not recommended. Please seperate each entry using semicolon.
 
 
 
