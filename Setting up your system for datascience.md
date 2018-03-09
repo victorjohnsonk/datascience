@@ -62,40 +62,40 @@ pip is located at `C:\Python34\Scripts`
 
 ###### Pandas
 Pandas is a software library written for the Python programming language for data manipulation and analysis
-Official [website](https://pandas.pydata.org/)
+Official [website](https://pandas.pydata.org/) |
 [Wikipedia](https://en.wikipedia.org/wiki/Pandas_(software))
 
 Install pandas : Open command prompt type `pip install pandas` press enter
 
 ###### Scipy
 SciPy is an open source Python library used for scientific computing and technical computing. SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks common in science and engineering. 
-Official [website](https://www.scipy.org/)
+Official [website](https://www.scipy.org/) |
 [Wikipedia](https://en.wikipedia.org/wiki/SciPy)
 
 Install pandas : Open command prompt type `pip install scipy` press enter
 
 ###### Numpy
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-Official [website](www.numpy.org/)
+Official [website](www.numpy.org/) |
 [Wikipedia](https://en.wikipedia.org/wiki/NumPy)
 
 Install Numpy : Open command prompt type `pip install numpy` press enter
 
 ###### Scikit-Learn
 Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN
-Official [website](www.scikit-learn.org)
+Official [website](www.scikit-learn.org) |
 [Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
 
 Install scikitlearn : Open command prompt type `pip install scikit-learn` press enter
 
 >Scikit-learn requires:
-NumPy
+NumPy,
 SciPy
 
 
 ###### Matplotlib
 Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-Official [website](https://matplotlib.org/)
+Official [website](https://matplotlib.org/) |
 [Wikipedia](https://en.wikipedia.org/wiki/Matplotlib)
 
 Install Matplotlib : Open command prompt type `pip install matplotlib` press enter
